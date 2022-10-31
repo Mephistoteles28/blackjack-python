@@ -224,4 +224,4 @@ if __name__ == "__main__":
             break
 
     if choose == 2 :
-        print("Bye bye fucker")
+        print("Bye bye!")
