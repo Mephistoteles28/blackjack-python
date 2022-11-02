@@ -9,8 +9,8 @@ Blackjack is a casino banking game. The most widely played casino banking game i
 You can play this game by **_click on the .exe file_** inside dist folder (dist\tiktaktoeV2.exe) and it will automatically run in your command prompt.
 
 1. You can download it by using git command,
-   `git clone https://github.com/Mephistoteles28/tictaktoe-python.git`
-2. Run the file by selecting the .exe file inside **_dist\tiktaktoeV2.exe_**.
+   `git clone https://github.com/Mephistoteles28/blackjack-python.git`
+2. Run the file by selecting the .exe file inside **_dist\blackjack.exe_**.
 
 ## Rules
 
